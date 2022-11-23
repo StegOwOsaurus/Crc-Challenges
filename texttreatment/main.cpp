@@ -3,10 +3,10 @@
 #include <ctype.h>
 #include <math.h>
 using namespace std;
+//me when
 //L'anglais est mis par defaut. Si vous voulez un affichage en francais, changez le string de la ligne suivante pour "FR"
 string CONSOLE_LANGUAGE = "ENG";
 //DO NOT DELETE STATEMENT / NE PAS EFFACER CETTE DÉCLARATION
-
 inline int to_int(string num){
     int thing = 0;
     for(int i = 0; i < num.length(); i++){
